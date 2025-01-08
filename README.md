@@ -1,4 +1,4 @@
 # lab1
-#Rohit beti mumbai gai 
+#Rishav 
 I am roshan
-# or rishav inka baap hai 
+# ocopied from roshan
